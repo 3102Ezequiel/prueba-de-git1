@@ -1,4 +1,4 @@
-nombre = "Benjamin"
-apellido = "Chavez"
+nombre = "Ezequiel"
+apellido = "Monzo"
 saludo = "hola " + nombre + " " + apellido
 print (saludo)
